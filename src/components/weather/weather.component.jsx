@@ -140,8 +140,8 @@ class Weather extends React.Component {
                             <h3>Uv Index: {weatherInfo.currently.uvIndex}</h3>
                             <h3>Humidity: {weatherInfo.currently.humidity}</h3>
                         </div>
+                        <p className='credit'><a href="https://darksky.net/poweredby/">Powered by Dark Sky</a></p>
                     </div>
-                    <p className='credit'><a href="https://darksky.net/poweredby/">Powered by Dark Sky</a></p>
                 </div>     
             )
         } else {

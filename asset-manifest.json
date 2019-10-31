@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/The4star/weather-now/static/css/main.21bc9164.chunk.css",
-    "main.js": "/The4star/weather-now/static/js/main.251ed152.chunk.js",
-    "main.js.map": "/The4star/weather-now/static/js/main.251ed152.chunk.js.map",
+    "main.js": "/The4star/weather-now/static/js/main.d6271930.chunk.js",
+    "main.js.map": "/The4star/weather-now/static/js/main.d6271930.chunk.js.map",
     "runtime-main.js": "/The4star/weather-now/static/js/runtime-main.f091267b.js",
     "runtime-main.js.map": "/The4star/weather-now/static/js/runtime-main.f091267b.js.map",
     "static/js/2.3e4ba8df.chunk.js": "/The4star/weather-now/static/js/2.3e4ba8df.chunk.js",
     "static/js/2.3e4ba8df.chunk.js.map": "/The4star/weather-now/static/js/2.3e4ba8df.chunk.js.map",
     "index.html": "/The4star/weather-now/index.html",
-    "precache-manifest.01baad17f38c02c528f0784bffacdac5.js": "/The4star/weather-now/precache-manifest.01baad17f38c02c528f0784bffacdac5.js",
+    "precache-manifest.cf06ea32f432ef1720ccee086aab90b3.js": "/The4star/weather-now/precache-manifest.cf06ea32f432ef1720ccee086aab90b3.js",
     "service-worker.js": "/The4star/weather-now/service-worker.js",
     "static/css/main.21bc9164.chunk.css.map": "/The4star/weather-now/static/css/main.21bc9164.chunk.css.map",
     "static/media/cloudy-night.mp4": "/The4star/weather-now/static/media/cloudy-night.baf4f373.mp4",
@@ -26,6 +26,6 @@
     "static/js/runtime-main.f091267b.js",
     "static/js/2.3e4ba8df.chunk.js",
     "static/css/main.21bc9164.chunk.css",
-    "static/js/main.251ed152.chunk.js"
+    "static/js/main.d6271930.chunk.js"
   ]
 }

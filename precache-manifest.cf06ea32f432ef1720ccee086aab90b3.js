@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8eba80f87a92226fa6027e0b94465048",
+    "revision": "0c64fddfab7209d27ddbad6bdd79e4ec",
     "url": "/The4star/weather-now/index.html"
   },
   {
-    "revision": "bc37ca7d0b2ce2684b8b",
+    "revision": "202c34b302122afaf026",
     "url": "/The4star/weather-now/static/css/main.21bc9164.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/The4star/weather-now/static/js/2.3e4ba8df.chunk.js"
   },
   {
-    "revision": "bc37ca7d0b2ce2684b8b",
-    "url": "/The4star/weather-now/static/js/main.251ed152.chunk.js"
+    "revision": "202c34b302122afaf026",
+    "url": "/The4star/weather-now/static/js/main.d6271930.chunk.js"
   },
   {
     "revision": "efd2b9dc1cab5930950a",

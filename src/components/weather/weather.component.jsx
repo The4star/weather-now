@@ -57,7 +57,7 @@ class Weather extends React.Component {
     getWeatherData = async () => {
         try{
             const { latitude, longitude } = this.state
-            const response = await axios.get('http://localhost:5000/fetch/dark-sky', {headers:{latitude, longitude}})
+            const response = await axios.get('https://weather-now-backend.herokuapp.com/fetch/dark-sky', {headers:{latitude, longitude}})
             const weatherData = response.data
             this.setState({weatherInfo: weatherData})
         } catch (error) {

@@ -1,31 +1,31 @@
 {
   "files": {
-    "main.css": "/weather-now/static/css/main.21bc9164.chunk.css",
-    "main.js": "/weather-now/static/js/main.5c2235de.chunk.js",
-    "main.js.map": "/weather-now/static/js/main.5c2235de.chunk.js.map",
+    "main.css": "/weather-now/static/css/main.d6b0f2fb.chunk.css",
+    "main.js": "/weather-now/static/js/main.012a686d.chunk.js",
+    "main.js.map": "/weather-now/static/js/main.012a686d.chunk.js.map",
     "runtime-main.js": "/weather-now/static/js/runtime-main.4522d422.js",
     "runtime-main.js.map": "/weather-now/static/js/runtime-main.4522d422.js.map",
     "static/js/2.3e4ba8df.chunk.js": "/weather-now/static/js/2.3e4ba8df.chunk.js",
     "static/js/2.3e4ba8df.chunk.js.map": "/weather-now/static/js/2.3e4ba8df.chunk.js.map",
     "index.html": "/weather-now/index.html",
-    "precache-manifest.7011ace8990d89732eca246119ec08c6.js": "/weather-now/precache-manifest.7011ace8990d89732eca246119ec08c6.js",
+    "precache-manifest.a353fa58e87dca79b6af93aab753eeda.js": "/weather-now/precache-manifest.a353fa58e87dca79b6af93aab753eeda.js",
     "service-worker.js": "/weather-now/service-worker.js",
-    "static/css/main.21bc9164.chunk.css.map": "/weather-now/static/css/main.21bc9164.chunk.css.map",
-    "static/media/cloudy-night.mp4": "/weather-now/static/media/cloudy-night.baf4f373.mp4",
-    "static/media/cloudy.mp4": "/weather-now/static/media/cloudy.54e37168.mp4",
-    "static/media/fog.mp4": "/weather-now/static/media/fog.9ea61d96.mp4",
-    "static/media/lightning.mp4": "/weather-now/static/media/lightning.9d10586e.mp4",
-    "static/media/night.mp4": "/weather-now/static/media/night.e675606b.mp4",
-    "static/media/rain.mp4": "/weather-now/static/media/rain.87b503a4.mp4",
-    "static/media/snow.mp4": "/weather-now/static/media/snow.06b672ba.mp4",
-    "static/media/sunny.mp4": "/weather-now/static/media/sunny.a4a62bef.mp4",
+    "static/css/main.d6b0f2fb.chunk.css.map": "/weather-now/static/css/main.d6b0f2fb.chunk.css.map",
+    "static/media/cloudy-night.jpg": "/weather-now/static/media/cloudy-night.680cfd3a.jpg",
+    "static/media/cloudy.jpg": "/weather-now/static/media/cloudy.88122f2e.jpg",
+    "static/media/fog.jpg": "/weather-now/static/media/fog.80bf388d.jpg",
+    "static/media/night.jpg": "/weather-now/static/media/night.d38346c5.jpg",
+    "static/media/rain.jpg": "/weather-now/static/media/rain.e0d8938f.jpg",
+    "static/media/snow.jpg": "/weather-now/static/media/snow.15a8f2ed.jpg",
+    "static/media/sunny.png": "/weather-now/static/media/sunny.6d5f6a8c.png",
+    "static/media/thunderstorm.jpg": "/weather-now/static/media/thunderstorm.f09b12b4.jpg",
     "static/media/tornado.jpg": "/weather-now/static/media/tornado.a2c61991.jpg",
-    "static/media/windy.mp4": "/weather-now/static/media/windy.8fc136d1.mp4"
+    "static/media/windy.png": "/weather-now/static/media/windy.6a4ea4e4.png"
   },
   "entrypoints": [
     "static/js/runtime-main.4522d422.js",
     "static/js/2.3e4ba8df.chunk.js",
-    "static/css/main.21bc9164.chunk.css",
-    "static/js/main.5c2235de.chunk.js"
+    "static/css/main.d6b0f2fb.chunk.css",
+    "static/js/main.012a686d.chunk.js"
   ]
 }

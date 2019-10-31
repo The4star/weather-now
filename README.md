@@ -11,18 +11,15 @@ https://github.com/The4Star
 Deployed Site: coming soon
 
 ## Purpose 
-
+A Weather app that displays the current weather using the users geolocation. 
 
 
 ## Technologies used
 
 * Node.js
 * express 
-* Mongoose 
-* MongoDB
-* Bcrypt
-* Jsonwebtoken
-* Morgan
+* React
 
 ## Functionality and Features
 
+Obtains the weather of the users current location and displays to screen. 

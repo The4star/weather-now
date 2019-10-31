@@ -121,7 +121,7 @@ class Weather extends React.Component {
         if (weatherInfo) {
             return (
                 <div className='weather-app' >
-                    <div className='background-image' > <video src={latitude ? this.getIcon().bg : null} autoPlay loop muted></video> </div>
+                    <div className='background-image' style={{backgroundImage: `url(${latitude ? this.getIcon().bg : null})`}}></div>
                     <div className='information-section'>
                         <div className='weather-header'>
                             <h1>Weather for {weatherInfo.timezone}</h1>

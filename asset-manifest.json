@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/weather-now/static/css/main.d6b0f2fb.chunk.css",
+    "main.css": "/weather-now/static/css/main.e573b9d4.chunk.css",
     "main.js": "/weather-now/static/js/main.012a686d.chunk.js",
     "main.js.map": "/weather-now/static/js/main.012a686d.chunk.js.map",
     "runtime-main.js": "/weather-now/static/js/runtime-main.4522d422.js",
@@ -8,9 +8,9 @@
     "static/js/2.3e4ba8df.chunk.js": "/weather-now/static/js/2.3e4ba8df.chunk.js",
     "static/js/2.3e4ba8df.chunk.js.map": "/weather-now/static/js/2.3e4ba8df.chunk.js.map",
     "index.html": "/weather-now/index.html",
-    "precache-manifest.a353fa58e87dca79b6af93aab753eeda.js": "/weather-now/precache-manifest.a353fa58e87dca79b6af93aab753eeda.js",
+    "precache-manifest.4a05e08bdd30a72e667fe989d82a909b.js": "/weather-now/precache-manifest.4a05e08bdd30a72e667fe989d82a909b.js",
     "service-worker.js": "/weather-now/service-worker.js",
-    "static/css/main.d6b0f2fb.chunk.css.map": "/weather-now/static/css/main.d6b0f2fb.chunk.css.map",
+    "static/css/main.e573b9d4.chunk.css.map": "/weather-now/static/css/main.e573b9d4.chunk.css.map",
     "static/media/cloudy-night.jpg": "/weather-now/static/media/cloudy-night.680cfd3a.jpg",
     "static/media/cloudy.jpg": "/weather-now/static/media/cloudy.88122f2e.jpg",
     "static/media/fog.jpg": "/weather-now/static/media/fog.80bf388d.jpg",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.4522d422.js",
     "static/js/2.3e4ba8df.chunk.js",
-    "static/css/main.d6b0f2fb.chunk.css",
+    "static/css/main.e573b9d4.chunk.css",
     "static/js/main.012a686d.chunk.js"
   ]
 }
